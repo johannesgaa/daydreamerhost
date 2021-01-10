@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from PyQt5.QtCore    import Qt, QSize, QTimer
 from PyQt5.QtWidgets import (QDialog, QVBoxLayout, QWidget,
                             QPushButton, QGridLayout, QSpacerItem,
